@@ -4,7 +4,12 @@
 
 	copyrigh Git Training
 	adding changes before resolving conflicts
+<<<<<<< HEAD
         some changes from master after bigtrouble branch
+=======
+	adding some troubles
+
+>>>>>>> b6bc77b (adding some other trouble)
 -->
 
 <head>

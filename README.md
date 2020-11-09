@@ -25,6 +25,5 @@ Additional comments
 
 ## Copyright
 
-copyrights: git training
-new updates
+copyrights: git training copy rights reserved
 
